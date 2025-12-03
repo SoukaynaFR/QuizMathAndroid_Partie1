@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Affichage des nombres dans les TextView
         tvNumber1.setText(String.valueOf(number1));
-        tvNumber2.setText(String.valueOf(number2))
+        tvNumber2.setText(String.valueOf(number2));
 
         // Réinitialisation du résultat
         tvResult.setText("?");
