@@ -1,0 +1,27 @@
+<resources>
+    <!-- Couleurs principales -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <!-- Couleurs de l'interface -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#F5F5F5</color>
+
+    <!-- Couleurs des boutons -->
+    <color name="btn_addition">#4CAF50</color>
+    <color name="btn_subtraction">#FF5722</color>
+    <color name="btn_multiplication">#2196F3</color>
+    <color name="btn_generate">#9C27B0</color>
+
+    <!-- Couleurs du texte -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_result">#FF6200EE</color>
+
+    <!-- Couleurs de fond -->
+    <color name="card_background">#FFFFFF</color>
+</resources>

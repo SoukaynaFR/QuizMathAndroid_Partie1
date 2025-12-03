@@ -1,0 +1,23 @@
+<resources>
+    <!-- Nom de l'application -->
+    <string name="app_name">MathQuiz</string>
+
+    <!-- Titres et labels -->
+    <string name="title_main">Quiz Mathématique</string>
+    <string name="label_number1">Nombre 1</string>
+    <string name="label_number2">Nombre 2</string>
+    <string name="label_result">Résultat</string>
+
+    <!-- Boutons d'opérations -->
+    <string name="btn_addition">+</string>
+    <string name="btn_subtraction">−</string>
+    <string name="btn_multiplication">×</string>
+
+    <!-- Bouton de génération -->
+    <string name="btn_generate">Générer</string>
+
+    <!-- Messages -->
+    <string name="default_number">0</string>
+    <string name="default_result">?</string>
+    <string name="instruction">Choisissez une opération</string>
+</resources>
